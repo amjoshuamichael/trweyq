@@ -27,8 +27,6 @@ local keys = {
     { letter = "b", x = 65, y = 20 },
     { letter = "n", x = 75, y = 20 },
     { letter = "m", x = 85, y = 20 },
-    { letter = ",", x = 95, y = 20 },
-    { letter = ".", x = 105, y = 20 },
     { letter = "space", x = 45, y = 30 },
 }
 

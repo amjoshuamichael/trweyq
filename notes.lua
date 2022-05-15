@@ -36,9 +36,3 @@ function PlayNote(pitch)
 	end
 	love.audio.play(source)
 end
-
-function PlaySound() 
-	local array = { 1, 5, 8, 12 }
-    local randomIndex = math.random(#array)
-    PlayNote(array[randomIndex] + 12)
-end
